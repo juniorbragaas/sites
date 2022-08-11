@@ -1,0 +1,41 @@
+body 
+{
+   margin:0;
+}
+/* Barra de titulo do sistema */
+div#layoutObj 
+{
+	margin:0px;
+	width: 100%;
+	min-height: 60px;
+}
+.adicionar
+{
+	color:black;
+	background-color: #A4BED4;
+	height: 30px;
+}
+.alterar
+{
+	color:black;
+	background-color: #A4BED4;
+	height: 30px;
+}
+.excluir
+{
+	color:black;
+	background-color: #A4BED4;
+	height: 30px;
+}
+.salvar
+{
+	color:black;
+	background-color: #A4BED4;
+	height: 30px;
+}
+.cancelar
+{
+	color:black;
+	background-color: #A4BED4;
+	height: 30px;
+}

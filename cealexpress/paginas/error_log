@@ -1,0 +1,4 @@
+[16-Nov-2016 10:06:45 America/Sao_Paulo] PHP Warning:  rsort() expects parameter 1 to be array, null given in /home/cealexpr/public_html/paginas/galeria-fotos.php on line 44
+[16-Nov-2016 10:06:45 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/cealexpr/public_html/paginas/galeria-fotos.php on line 45
+[16-Nov-2016 10:08:14 America/Sao_Paulo] PHP Warning:  rsort() expects parameter 1 to be array, null given in /home/cealexpr/public_html/paginas/galeria-fotos.php on line 47
+[16-Nov-2016 10:08:14 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/cealexpr/public_html/paginas/galeria-fotos.php on line 48
