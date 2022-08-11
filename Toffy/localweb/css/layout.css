@@ -1,0 +1,277 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    font-family: Helvetica, Arial, Verdana;
+    margin: 15px 0 0 0;
+    margin-bottom: 0;
+    font-size: 12px;
+}
+
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section:nth-child(even){ background-color: #8ebbe4; width:100%; }
+section:nth-child(odd){ background-color: #fcdb74; width: 100%; }
+
+svg{
+    width: 300px;
+    height: 300px;
+}
+
+
+#map{
+    background-color: #fff;
+}
+
+#copyCredits{
+    /* background-color: #437AC5; */
+    background-color: #4486c2;
+}
+
+.container {
+    position: relative;
+    width: 960px;
+    margin: 0 auto;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+#filters {
+    margin: 1%;
+    padding: 0;
+    list-style: none;
+}
+
+#filters li {
+    float: left;
+}
+
+#filters li span {
+    display: block;
+    padding: 5px 20px;
+    text-decoration: none;
+    color: #454545;
+    cursor: pointer;
+}
+
+#filters li span.active {
+    background: #e95a44;
+    color: #fff;
+}
+
+#portfoliolist .portfolio {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    width: 23%;
+    margin: 1%;
+    display: none;
+    float: left;
+    overflow: hidden;
+}
+
+.portfolio-wrapper {
+    overflow: hidden;
+    position: relative !important;
+    background: #fcdb74;
+    cursor: pointer;
+}
+
+.portfolio img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    -webkit-transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.portfolio .label {
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    bottom: -40px;
+    left: 0;
+    -webkit-transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.portfolio .label-bg {
+    background: #e95a44;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.portfolio .label-text {
+    color: #fff;
+    position: relative;
+    text-align: center;
+    z-index: 500;
+    padding: 5px 8px;
+}
+
+.portfolio .text-title {
+    display: block;
+    color: #1d72aa;
+    font-size: 12px;
+}
+
+.portfolio .text-category {
+    display: block;
+    font-size: 10px;
+}
+
+.portfolio:hover .label {
+    bottom: 0;
+}
+
+.portfolio:hover img {
+    top: -30px;
+}
+
+.credits{
+    color: #0a0a0a;
+}
+.copyright{
+    color: #0a0a0a;
+}
+span.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    text-decoration: none;
+    color: #407dcd;
+    background-color: rgba(0, 0, 0, 0.45);
+    border-radius: 100%;
+    box-shadow: 2px 3px 19px -2px rgba(0, 0, 0, 0.75);
+    font-size: 18px;
+    padding: 1em;
+    display: none;
+}
+
+span.back-to-top:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+/* Firefox */
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+
+/* #Tablet (Portrait) */
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .container {
+        width: 768px;
+    }
+}
+
+
+/*  #Mobile (Portrait) - Note: Design for a width of 320px */
+
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 95%;
+    }
+    #portfoliolist .portfolio {
+        width: 48%;
+        margin: 1%;
+    }
+    #ads {
+        display: none;
+    }
+}
+
+
+/* #Mobile (Landscape) - Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 70%;
+    }
+    #ads {
+        display: none;
+    }
+}
+
+
+/* #Clearing */
+
+
+/* Self Clearing Goodness */
+
+.container:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after,
+.row:before,
+.row:after {
+    content: '\0020';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+.row:after,
+.clearfix:after {
+    clear: both;
+}
+
+.row,
+.clearfix {
+    zoom: 1;
+}
+
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+.modulo_sobre {}
+
+.modulo_sobre:hover {
+    background-color: #FFF;
+}
+
+.rede_social:hover {
+    background-color: #fcdb74;
+}
+.item-menu-principal 
+{
+    margin-right:5px;
+	font-size:13px;
+}

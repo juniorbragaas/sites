@@ -1,0 +1,44 @@
+<dados>
+
+    <item>
+        <codigo>1</codigo>
+        <fotoLink>imagens/sobre/projeto.webp</fotoLink>
+        <titulo>PROJETO</titulo>
+        <descricao><![CDATA[TOFFY foi criado em 2016 por Valdelei Junior Braga criador e responsável pela empresa. <br/>&#10;
+        É um projeto com atuação no mercado corporativo de informática especializada no desenvolvimento
+        de sistemas para planejamento e controle operacional além de consultoria para gerenciamento de
+        banco de dados.
+        <br/>]]></descricao>
+    </item>
+    <item>
+        <codigo>2</codigo>
+        <fotoLink>imagens/sobre/missao.webp</fotoLink>
+        <titulo>MISSÃO</titulo>
+        <descricao><![CDATA[Transformar em realidade os sonhos dos nossos clientes por meio de soluções de tecnologia e
+        inovação.<br/>
+
+        Eliminar burocracias na busca por informações e dados empresariais através da criação de
+        centro de auto ajuda virtuais.<br/>
+
+        Intensificar a utilização de relatórios de melhor qualidade através de consultorias
+        especializadas.]]></descricao>
+    </item>
+    <item>
+        <codigo>3</codigo>
+        <fotoLink>imagens/sobre/valores.webp</fotoLink>
+        <titulo>VALORES</titulo>
+        <descricao><![CDATA[Integridade
+        Nós agimos sempre de maneira ética e coerente com nossas palavras. Esse é o nosso alicerce.
+        <br/>
+
+        Energia
+        e atitude positiva Acreditar que você é capaz e pode realizar.
+        <br/>
+        Respeito
+        Nós respeitamos a pessoa e o profissional. A diversidade da equipe é uma força da organização.
+        <br/>
+        Foco no resultado sustentável
+        Nós agimos sempre para gerar valor para os clientes, acionistas, colaboradores e a sociedade.]]></descricao>
+    </item>
+
+</dados>

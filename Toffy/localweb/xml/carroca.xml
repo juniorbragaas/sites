@@ -1,0 +1,26 @@
+<dados>
+    <item>
+        <codigo>1</codigo>
+        <fotoLink>imagens/logo.webp</fotoLink>
+        <titulo>TOFFY</titulo>
+        <descricao><![CDATA[Soluções em Sistemas]]></descricao>
+    </item>
+    <item>
+        <codigo>2</codigo>
+        <fotoLink>imagens/slides/3.webp</fotoLink>
+        <titulo>titulo2</titulo>
+        <descricao><![CDATA[Aprenda a otimizar seus relatórios]]></descricao>
+    </item>
+    <item>
+        <codigo>3</codigo>
+        <fotoLink>imagens/slides/4.webp</fotoLink>
+        <titulo>titulo</titulo>
+        <descricao><![CDATA[Tenha programas que facilitem seu trabalho]]></descricao>
+    </item>
+    <item>
+        <codigo>4</codigo>
+        <fotoLink>imagens/slides/5.webp</fotoLink>
+        <titulo>titulo2</titulo>
+        <descricao><![CDATA[Divulgue sua empresa pela web e aumente o número de clientes]]></descricao>
+    </item>
+</dados>

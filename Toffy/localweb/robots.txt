@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /utils/
+Disallow: /config/
+Disallow: /inc/
+Disallow: /xml/

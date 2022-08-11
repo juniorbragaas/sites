@@ -1,0 +1,22 @@
+@relation tabela_uploaded 
+
+@attribute tempo {ensolarado,nublado,chuvoso}
+@attribute temperatura {quente,moderado}
+@attribute umidade {alta,normal}
+@attribute vento {fraco,forte,coiso}
+@attribute jogar {não,sim}
+
+@data
+
+ensolarado,quente,alta,fraco,não
+ensolarado,quente,alta,forte,não
+nublado,quente,alta,fraco,sim
+chuvoso,moderado,alta,coiso,sim
+ensolarado,moderado,normal,forte,sim
+chuvoso,moderado,alta,forte,não
+ensolarado,quente,alta,fraco,não
+ensolarado,quente,alta,forte,não
+nublado,quente,alta,fraco,sim
+chuvoso,moderado,alta,fraco,sim
+ensolarado,moderado,normal,forte,sim
+chuvoso,moderado,alta,forte,não

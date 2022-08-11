@@ -1,0 +1,75 @@
+<dados>
+    <map>
+        <item>
+            <classe>app</classe>
+            <name>Web Sites</name>
+        </item>
+        <item>
+            <classe>card</classe>
+            <name>Artes Gráfica</name>
+        </item>
+    </map>
+    <item>
+        <codigo>1</codigo>
+        <fotoLink>imagens/portifolio/site/screenshot.8.webp</fotoLink>
+        <titulo>Burguer Week</titulo>
+        <classe>app</classe>
+        <descricao><![CDATA[Site para o evento Burguer Week]]></descricao>
+    </item>
+    <item>
+        <codigo>2</codigo>
+        <fotoLink>imagens/portifolio/site/osaventureirosmc.webp</fotoLink>
+        <titulo>Os Aventureiros Moto Clube</titulo>
+        <classe>app</classe>
+        <descricao><![CDATA[Site de motoclube]]></descricao>
+    </item>
+    <item>
+        <codigo>3</codigo>
+        <fotoLink>imagens/portifolio/site/cealexpress.webp</fotoLink>
+        <titulo>Ceal Express</titulo>
+        <classe>app</classe>
+        <descricao><![CDATA[Escola de imersão de inglês]]></descricao>
+    </item>
+    <item>
+        <codigo>4</codigo>
+        <fotoLink>imagens/portifolio/site/guiamaniaonline.webp</fotoLink>
+        <titulo>Guia Mania</titulo>
+        <classe>app</classe>
+        <descricao><![CDATA[Portal Comercial e eventos]]></descricao>
+    </item>
+    <item>
+        <codigo>5</codigo>
+        <fotoLink>imagens/portifolio/site/crmvmg.webp</fotoLink>
+        <titulo>CRMV-MG</titulo>
+        <classe>app</classe>
+        <descricao><![CDATA[Portal para veterinários e zootecnistas]]></descricao>
+    </item>
+    <item>
+        <codigo>6</codigo>
+        <fotoLink>imagens/portifolio/site/magnumsol.webp</fotoLink>
+        <titulo>Magnum Sol</titulo>
+        <classe>app</classe>
+        <descricao><![CDATA[Portal acadêmico]]></descricao>
+    </item>
+    <item>
+        <codigo>7</codigo>
+        <fotoLink>imagens/portifolio/arte/16463510_363765440672699_3801699046152208833_o.webp</fotoLink>
+        <titulo>SunFest18</titulo>
+        <classe>card</classe>
+        <descricao><![CDATA[Banner para festa]]></descricao>
+    </item>
+    <item>
+        <codigo>8</codigo>
+        <fotoLink>imagens/portifolio/arte/logo.webp</fotoLink>
+        <titulo>Logo Toffy</titulo>
+        <classe>card</classe>
+        <descricao><![CDATA[Logo do site]]></descricao>
+    </item>
+    <item>
+        <codigo>9</codigo>
+        <fotoLink>imagens/portifolio/arte/screenshot.9.webp</fotoLink>
+        <titulo>Lelis &amp; Telles</titulo>
+        <classe>card</classe>
+        <descricao><![CDATA[Cartão de visita]]></descricao>
+    </item>
+</dados>

@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<menus>
+<item><cod>1</cod><nome>Sobre</nome><link></link><ancora>1</ancora><pai>0</pai></item>
+	<item><cod>5</cod><nome>O projeto</nome><link>#</link><ancora>1</ancora><pai>1</pai></item>
+	<item><cod>6</cod><nome>Missão</nome><link>#</link><ancora>1</ancora><pai>1</pai></item>
+	<item><cod>8</cod><nome>valores</nome><link>#</link><ancora>1</ancora><pai>1</pai></item>
+	<item><cod>9</cod><nome>Equipe</nome><link>#</link><ancora>1</ancora><pai>1</pai></item>
+	<item><cod>10</cod><nome>Onde estamos?</nome><link>#</link><ancora>1</ancora><pai>1</pai></item>
+<item><cod>2</cod><nome>Serviços</nome><link></link><ancora>1</ancora><pai>0</pai></item>
+	<item><cod>11</cod><nome>Chatter Bots</nome><link>#</link><ancora>1</ancora><pai>2</pai></item>
+	<item><cod>12</cod><nome>Relatórios</nome><link>#</link><ancora>1</ancora><pai>2</pai></item>
+	<item><cod>13</cod><nome>Aplicações</nome><link>#</link><ancora>1</ancora><pai>2</pai></item>
+	<item><cod>14</cod><nome>Web Sites</nome><link>#</link><ancora>1</ancora><pai>2</pai></item>
+	<item><cod>15</cod><nome>Consultoria</nome><link>#</link><ancora>1</ancora><pai>2</pai></item>
+	<item><cod>16</cod><nome>Artes Graficas</nome><link>#</link><ancora>1</ancora><pai>2</pai></item>
+<item><cod>3</cod><nome>Contato</nome><link>#contato</link><ancora>1</ancora><pai>0</pai></item>
+	<item><cod>17</cod><nome>Converse com TOFFY</nome><link>#</link><ancora>1</ancora><pai>3</pai></item>
+	<item><cod>18</cod><nome>Conheças nossos planos</nome><link>#</link><ancora>1</ancora><pai>3</pai></item>
+	<item><cod>19</cod><nome>Dúvidas e sugestões</nome><link>#</link><ancora>1</ancora><pai>3</pai></item>
+	<item><cod>20</cod><nome>Redes Socias</nome><link>#</link><ancora>1</ancora><pai>3</pai></item>
+</menus>

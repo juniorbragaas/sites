@@ -1,0 +1,34 @@
+<dados>
+    <item>
+        <codigo>1</codigo>
+        <fotoLink>imagens/banner_servicos/relatorios.webp</fotoLink>
+        <titulo>RELATÓRIOS</titulo>
+        <descricao><![CDATA[Dificuldades em gerar relatórios e Querys de seus serviços? Prestamos
+                    consultoria online ou iremos até você para auxilia-lo]]></descricao>
+    </item>
+    <item>
+        <codigo>2</codigo>
+        <fotoLink>imagens/banner_servicos/aplicacoes.webp</fotoLink>
+        <titulo>APLICAÇÕES</titulo>
+        <descricao><![CDATA[O site disponibiliza as mais diversas aplicações para gerenciamento e controles
+                operacionais de empresas.]]></descricao>
+    </item>
+    <item>
+        <codigo>3</codigo>
+        <fotoLink>imagens/banner_servicos/web_sites.webp</fotoLink>
+        <titulo>WEB SITES</titulo>
+        <descricao><![CDATA[Tenha um site profissional e expanda seu negócio pelo mundo]]></descricao>
+    </item>
+    <item>
+        <codigo>4</codigo>
+        <fotoLink>imagens/banner_servicos/consultoria.webp</fotoLink>
+        <titulo>CONSULTORIA</titulo>
+        <descricao><![CDATA[Consultoria em informática auxilio em produção de documentos e apresentações]]></descricao>
+    </item>
+    <item>
+        <codigo>2</codigo>
+        <fotoLink>imagens/banner_servicos/arte.webp</fotoLink>
+        <titulo>ARTES GRÁFICAS</titulo>
+        <descricao><![CDATA[Desenvolvimento de logos, banners e outros produtos gráficos]]></descricao>
+    </item>
+</dados>
